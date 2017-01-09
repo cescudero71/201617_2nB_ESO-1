@@ -2,22 +2,24 @@
     
 <widget xmlns   = "http://www.w3.org/ns/widgets"
         xmlns:gap   = "http://phonegap.com/ns/1.0"
-        id          = "cat.numancia.control_esp8266"
-        versionCode = "30" 
-        version     = "0.0.30" >
+        id          = "cat.numancia.sistemasolar_ceg"
+        versionCode = "1" 
+        version     = "0.0.1" >
 	
 	<!-- versionCode is optional and Android only -->
 
 	
 
-   <name>Control ESP8266</name>
+   <name>Sistema Soler ft/Cescu</name>
 
    <description>
-       Test per control.lar un NodeMCU 8266
+       Sistema solar fet per segón d'eso B per Carles Escudero
+	   Instagram: @cescuu_23
+	   Facebook: Carles Escudero
     </description>
 
-    <author href="https://numancia.cat/intranet" email="sergi.curtu@numancia.cat">
-       Sergi Curtu
+    <author href="http://carlesescudero.pe.hu/" email="cescudero71@iesnumancia.cat">
+       Carles Escudero
     </author>
 
 	<content src="index.html"/>
